@@ -1,0 +1,17 @@
+# 폴더 만들기
+mkdir my3d_project
+cd my3d_project
+
+# 가상환경 생성
+python -m venv venv
+
+# 가상환경 활성화
+venv\Scripts\activate
+
+# pygame 설치
+pip install pygame
+
+#1회성 설치 후
+cd 3D-IK-calculator
+venv\Scripts\activate
+python main.py
