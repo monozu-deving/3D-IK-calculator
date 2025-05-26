@@ -1,5 +1,7 @@
 # 3D-IK-Calculator
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+
 🚀 **3D-IK-Calculator**는 VPython으로 구현된 인터랙티브 3D 역기구학(Inverse Kinematics) 시뮬레이터입니다.  
 사용자는 키보드로 타겟 위치(빨간 공)를 이동시키고, 2-링크 로봇팔이 실시간으로 역기구학 계산을 통해 타겟을 추적합니다.
 
