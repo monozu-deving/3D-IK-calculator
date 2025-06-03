@@ -62,3 +62,9 @@ python main.py
 | `main.py`   | 메인 실행 파일 (시뮬레이터) |
 | `README.md` | 설명 파일            |
 
+
+---
+
+## 🖼️ Photo
+
+<img width="503" alt="Image" src="https://github.com/user-attachments/assets/57882305-5456-4c66-bf46-7c4016b14913" />
