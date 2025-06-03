@@ -67,4 +67,5 @@ python main.py
 
 ## 🖼️ Photo
 
-<img width="503" alt="Image" src="https://github.com/user-attachments/assets/57882305-5456-4c66-bf46-7c4016b14913" />
+<img width="503" alt="Image" src="https://github.com/user-attachments/assets/57882305-5456-4c66-bf46-7c4016b14913" />  
+<img width="503" alt="Image" src="https://github.com/user-attachments/assets/2011c635-772e-4e7b-9710-456b3de7bf21" />
